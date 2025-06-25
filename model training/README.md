@@ -1,0 +1,1 @@
+The purpose of this project is to predict the price of car. There are 9 different paramters like car company, car seat, engine type, transimission etc. I tried it using deep learning model as well as random forest regressor.

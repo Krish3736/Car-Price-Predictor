@@ -1,0 +1,12 @@
+{
+  "car_company": [
+    "Select a company","Jeep", "Renault", "Toyota", "Honda", "Volkswagen", "Maruti", "Mahindra",
+    "Hyundai", "Nissan", "Kia", "MG", "Tata", "BMW", "Mercedes-Benz", "Datsun",
+    "Volvo", "Audi", "Porssche", "Ford", "Chevrolet", "Skoda", "Lexus", "Land",
+    "Mini", "Jaguar", "Mitsubishi", "Force", "Premier", "Fiat", "Maserati",
+    "Bentley", "Isuzu"
+  ],
+  "fuel_type": ["Select a fuel type","Diesel", "Petrol", "Cng", "Electric", "Lpg"],
+  "transmission_type": ["Manual", "Automatic"],
+  "seats": [5, 6, 7, 4, 8, 2]
+}
